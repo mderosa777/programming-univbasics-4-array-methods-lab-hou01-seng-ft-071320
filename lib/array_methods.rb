@@ -5,6 +5,8 @@ end
 
 
 def using_sort(array)
+  array.sort 
+  array2=array.sort
 
 end
 
