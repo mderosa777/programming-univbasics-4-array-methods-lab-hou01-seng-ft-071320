@@ -11,6 +11,8 @@ def using_sort(array)
 end
 
 def using_reverse(array)
+  array.reverse 
+  yarra = array.reverse
 
 end
 
